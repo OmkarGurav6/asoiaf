@@ -1,0 +1,20 @@
+img
+{
+	width:20%;
+	float:left;
+	margin:2.5%;
+}
+
+h1
+{
+   text-align:center;
+   font-size: 5em;
+}
+
+h2
+{
+   text-align:center;
+   font-family: 'Pacifico', cursive;
+   border-bottom: 2px solid #9aa5b8;
+   padding-bottom: 20px;
+}
